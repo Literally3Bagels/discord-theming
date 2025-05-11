@@ -1,0 +1,27 @@
+@import url("https://raw.githubusercontent.com/Literally3Bagels/discord-theming/refs/heads/main/ctp-mocha-yellow-optimised.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    font-family: Renogare;
+}
+[class*=messageContent], [class*=markup__75297] {
+	font-family: Montserrat;
+	font-weight: 500;
+}
+
+button[aria-label="Send a gift"] {
+    display: none;
+}
+button[aria-label="Apps"] {
+	display: none;
+}
+.container_c48ade {
+  --custom-chat-input-margin-bottom: 22px;
+}
+:root {
+  --custom-channel-textarea-text-area-height: 42px;
+}
+.visual-refresh .base_b88801 {
+  font-size: 13.5px;
+  height: 18px;
+}
