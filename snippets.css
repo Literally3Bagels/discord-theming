@@ -1,0 +1,16 @@
+button[aria-label="Send a gift"] {
+    display: none;
+}
+button[aria-label="Apps"] {
+	display: none;
+}
+.container_c48ade {
+  --custom-chat-input-margin-bottom: 22px;
+}
+:root {
+  --custom-channel-textarea-text-area-height: 42px;
+}
+.visual-refresh .base_b88801 {
+  font-size: 13.5px;
+  height: 18px;
+}
