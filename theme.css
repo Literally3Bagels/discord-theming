@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
     font-family: Renogare;
 }
@@ -5,6 +7,14 @@
 	font-family: Montserrat;
 	font-weight: 500;
 }
+[class*=appLauncherGlow_e6e74f], [aria-label="Completed a Quest"] {
+	display: none;
+}
+/*
+a:hover {
+	color: #f9e2af;
+}
+*/
 
 button[aria-label="Send a gift"] {
     display: none;
